@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h2 align="center">STM8 RORATY ENCODER LIBRARY</h2>
+  <h2 align="center">STM8 DELAY LIBRARY</h2>
 
   <p align="center">
-    Library for using rotary encoder with stm8
+    Library for implementing delays with stm8
     <br />
     <a href="https://github.com/matejkrenek/stm8-rotary-encoder/issues">Report Bug</a>
     ·
